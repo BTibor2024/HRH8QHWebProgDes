@@ -1,0 +1,8 @@
+Bővítmények:
+Es-lint,
+Liveserver,
+Prettier
+
+Beállítások:
+Format on save,
+Emmet
